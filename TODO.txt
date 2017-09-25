@@ -1,0 +1,15 @@
+### what do all trees have in common?
+
+1. Splits
+2. Split variables and split values
+3. Can be categorical
+4. Can have missing levels -- need to support NAs
+5. A prediction value
+6. Sometimes other meta data such as observations or error reduction
+
+
+## system to register a set of functions for translation
+
+## create standardized trees in R
+
+## provide methods for predicting those R objects in C for speed's sake
