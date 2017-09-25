@@ -7,6 +7,9 @@
 5. A prediction value
 6. Sometimes other meta data such as observations or error reduction
 
+## internal and external nodes
+
+## should all be 1-indexed like R
 
 ## system to register a set of functions for translation
 
