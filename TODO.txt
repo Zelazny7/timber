@@ -16,3 +16,9 @@
 ## create standardized trees in R
 
 ## provide methods for predicting those R objects in C for speed's sake
+
+## inlucding parallel prediction and sparse prediction
+
+## use test's!
+
+## look into broom?
